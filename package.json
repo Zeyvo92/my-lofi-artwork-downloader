@@ -1,0 +1,15 @@
+{
+  "name": "my-lofi-artwork-downloader",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:Zeyvo92/my-lofi-artwork-downloader.git",
+  "author": "Mohamed Bouzidi <zeyvo92@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
